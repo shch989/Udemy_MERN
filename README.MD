@@ -22,3 +22,4 @@
 - NavBar 구현
 
 ### npm packages installed:
+- npm install --save react-transition-group
