@@ -7,7 +7,7 @@ import './UserItem.css'
 
 function UserItem(props) {
   return (
-    <l1 className="user-item">
+    <li className="user-item">
       <Card className="user-item__content">
         <Link to={`/${props.id}/places`}>
           <div className="user-item__image">
@@ -21,7 +21,7 @@ function UserItem(props) {
           </div>
         </Link>
       </Card>
-    </l1>
+    </li>
   )
 }
 
