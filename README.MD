@@ -29,4 +29,4 @@
 ### Activity:
 
 - UserPlaces 페이지 구현
-
+- Page Param(useParams)
