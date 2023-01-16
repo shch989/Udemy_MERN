@@ -23,3 +23,10 @@
 
 ### npm packages installed:
 - npm install --save react-transition-group
+
+## 2023-01-16
+
+### Activity:
+
+- UserPlaces 페이지 구현
+
