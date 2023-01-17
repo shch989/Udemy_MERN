@@ -30,3 +30,9 @@
 
 - UserPlaces 페이지 구현
 - Page Param(useParams)
+
+## 2023-01-17
+
+### Activity:
+
+- 지도를 보여줄 Modal Components 구현
