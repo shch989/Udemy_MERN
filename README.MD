@@ -42,3 +42,4 @@
 ### Activity:
 
 - OpenLayers 지도 API 사용
+- Place 추가 페이지 구현
