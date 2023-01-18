@@ -36,3 +36,9 @@
 ### Activity:
 
 - 지도를 보여줄 Modal Components 구현
+
+## 2023-01-18
+
+### Activity:
+
+- OpenLayers 지도 API 사용
