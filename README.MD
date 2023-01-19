@@ -43,3 +43,9 @@
 
 - OpenLayers 지도 API 사용
 - Place 추가 페이지 구현
+
+## 2023-01-19
+
+### Activity:
+
+- Place 추가 페이지 양식별 유효성 검사
