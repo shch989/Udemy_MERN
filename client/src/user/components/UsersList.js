@@ -1,10 +1,10 @@
-import React from 'react'
+import React from 'react';
 
-import Card from '../../shared/components/UIElements/Card'
-import UserItem from './UserItem'
-import './UsersList.css'
+import UserItem from './UserItem';
+import Card from '../../shared/components/UIElements/Card';
+import './UsersList.css';
 
-function UsersList(props) {
+const UsersList = props => {
   if (props.items.length === 0) {
     return (
       <div className="center">
@@ -12,12 +12,12 @@ function UsersList(props) {
           <h2>No users found.</h2>
         </Card>
       </div>
-    )
+    );
   }
 
   return (
     <ul className="users-list">
-      {props.items.map((user) => (
+      {props.items.map(user => (
         <UserItem
           key={user.id}
           id={user.id}
@@ -27,7 +27,7 @@ function UsersList(props) {
         />
       ))}
     </ul>
-  )
-}
+  );
+};
 
-export default UsersList
+export default UsersList;
