@@ -59,3 +59,8 @@
 - 로그인 페이지 구현
 - Auth 컨텍스트 추가
 - Client 마무리
+- Express 설정
+
+### npm packages installed:
+- npm install --save express
+- npm install -D nodemon
