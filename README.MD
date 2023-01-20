@@ -59,8 +59,10 @@
 - 로그인 페이지 구현
 - Auth 컨텍스트 추가
 - Client 마무리
-- Express 설정
+- Express 기본 라우팅 구현
+- REST API 에러처리
 
 ### npm packages installed:
 - npm install --save express
+- npm install --save body-parser
 - npm install -D nodemon
