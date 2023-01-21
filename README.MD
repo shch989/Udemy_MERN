@@ -72,3 +72,4 @@
 ### Activity:
 
 - Error Model 구현
+- Controllers 추가로 MVC 패턴으로 재구현
