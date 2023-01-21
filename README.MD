@@ -66,3 +66,9 @@
 - npm install --save express
 - npm install --save body-parser
 - npm install -D nodemon
+
+## 2023-01-21
+
+### Activity:
+
+- Error Model 구현
