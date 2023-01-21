@@ -74,6 +74,8 @@
 - Error Model 구현
 - Controllers 추가로 MVC 패턴으로 재구현
 - Place Post 기능 구현 및 uuid로 Id 값 지정
+- Error Route 추가
+- Place Get, Post, Patch, Delete 기능 모두 구현
 
 ### npm packages installed:
 - npm install --save uuid
