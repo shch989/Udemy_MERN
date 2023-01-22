@@ -85,7 +85,9 @@
 
 ### Activity:
 
-- API 입력 검증 (express-validator)
+- Place API 입력 검증
+- User API 입력 검증
+- 기능 보안 및 수정
 
 ### npm packages installed:
 - npm install --save express-validator
