@@ -80,3 +80,12 @@
 
 ### npm packages installed:
 - npm install --save uuid
+
+## 2023-01-22
+
+### Activity:
+
+- API 입력 검증 (express-validator)
+
+### npm packages installed:
+- npm install --save express-validator
