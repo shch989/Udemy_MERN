@@ -88,6 +88,8 @@
 - Place API 입력 검증
 - User API 입력 검증
 - 기능 보안 및 수정
+- Geocoding API로 좌표 표시
 
 ### npm packages installed:
 - npm install --save express-validator
+- npm install --save axios
