@@ -99,6 +99,7 @@
 ### Activity:
 
 - MongoDB 연결
+- Place 스키마 및 모델
 
 ### npm packages installed:
 - npm install --save mongoose
