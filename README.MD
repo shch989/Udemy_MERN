@@ -93,3 +93,12 @@
 ### npm packages installed:
 - npm install --save express-validator
 - npm install --save axios
+
+## 2023-01-23
+
+### Activity:
+
+- MongoDB 연결
+
+### npm packages installed:
+- npm install --save mongoose
