@@ -1,6 +1,6 @@
 const mongoose = require('mongoose')
 
-let placeSchema = new mongoose.Schema({
+const placeSchema = new mongoose.Schema({
   title: {
     type: String,
     required: true,
