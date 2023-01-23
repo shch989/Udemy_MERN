@@ -100,7 +100,7 @@
 
 - MongoDB 연결
 - Place 스키마 및 모델
-- DUMMY DB를 사용한 Controller 수정
+- DUMMY DB를 사용한 Controller 수정(CRUD)
 
 ### npm packages installed:
 - npm install --save mongoose
