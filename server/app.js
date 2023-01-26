@@ -28,7 +28,7 @@ app.use((error, req, res, next) => {
 })
 
 mongoose
-  .connect('mongodb://localhost:27017/places')
+  .connect('mongodb+srv://semi2790:981104shch98@cluster0.72cuoyy.mongodb.net/places')
   .then(() => {
     app.listen(5000, () => {
       console.log(`Example app listening at http://localhost:5000/`)

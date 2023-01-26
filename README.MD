@@ -112,3 +112,5 @@
 ### Activity:
 
 - DUMMY DB를 사용한 User Controller 수정(CRUD)
+- User와 Place 관계 추가
+- MongoDB와 REST_API 연결 마무리
