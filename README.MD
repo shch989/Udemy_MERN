@@ -114,3 +114,8 @@
 - DUMMY DB를 사용한 User Controller 수정(CRUD)
 - User와 Place 관계 추가
 - MongoDB와 REST_API 연결 마무리
+- API_KEY와 DB_URI 환경변수 관리
+
+### npm packages installed:
+
+- npm install --save dotenv

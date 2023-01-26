@@ -2,6 +2,8 @@ const express = require('express')
 const bodyParser = require('body-parser')
 const mongoose = require('mongoose')
 
+require('dotenv').config();
+
 const placesRoutes = require('./routes/places-routes')
 const usersRoutes = require('./routes/users-routes')
 const HttpError = require('./models/http-error')
@@ -28,7 +30,7 @@ app.use((error, req, res, next) => {
 })
 
 mongoose
-  .connect('mongodb+srv://semi2790:981104shch98@cluster0.72cuoyy.mongodb.net/places')
+  .connect(process.env.MONGODB_URI)
   .then(() => {
     app.listen(5000, () => {
       console.log(`Example app listening at http://localhost:5000/`)
