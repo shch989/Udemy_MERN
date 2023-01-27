@@ -9,11 +9,13 @@ const usersRoutes = require('./routes/users-routes')
 const HttpError = require('./models/http-error')
 
 const app = express()
+const cors = require('cors');
 
 app.use(bodyParser.json())
 
-app.use('/api/places/', placesRoutes)
+app.use(cors());
 
+app.use('/api/places/', placesRoutes)
 app.use('/api/users/', usersRoutes)
 
 app.use((req, res, next) => {

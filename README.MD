@@ -119,3 +119,14 @@
 ### npm packages installed:
 
 - npm install --save dotenv
+
+## 2023-01-26
+
+### Activity:
+
+- Node.js에서 CORS 사용
+- React에서 Node.js로 POST 요청 보내기
+
+### npm packages installed:
+
+- npm install --save cors
