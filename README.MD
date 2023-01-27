@@ -125,7 +125,8 @@
 ### Activity:
 
 - Node.js에서 CORS 사용
-- React에서 Node.js로 POST 요청 보내기
+- React에서 Node.js로 요청 보내기
+- 프로젝트 마무리
 
 ### npm packages installed:
 
